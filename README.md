@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Ahmed Shaaban
 
-<!--
-**Ahm6dshaab5n/Ahm6dshaab5n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Backend Developer (Laravel / PHP)
+I build **RESTful APIs** and web apps using Laravel and PHP.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+**Backend:** PHP, Laravel, REST API  
+**Database:** MySQL, Eloquent ORM  
+**Tools:** Git, Composer, Postman  
+
+---
+
+## 📁 Featured Projects
+🌟 **Book Review Laravel** — Laravel CRUD + Authentication + MySQL  
+🔗 https://github.com/Ahm6dshaab5n/task-list-laravel
+
+🌟 **Task List Laravel** — REST API endpoints using Laravel  
+🔗 https://github.com/Ahm6dshaab5n/task-list-laravel
+
+---
+
+## 📫 Contact Me
+- 📧 Email: ahm6dshaab5n@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ahmed-shaaban-b67398360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
