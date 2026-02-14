@@ -19,7 +19,7 @@ Book Review Laravel — Laravel CRUD + Authentication + MySQL
 🌟 **Task List Laravel** — REST API endpoints using Laravel  
 🔗 https://github.com/Ahm6dshaab5n/task-list-laravel
 
-**Job App** laravel jop platform application used by jop-seeker
+**Job App** laravel jop platform application used by jop-seeker                                                           
   🔗 https://github.com/Ahm6dshaab5n/job-app
 
 **Job backoffice** laravel job platform Backoffice application used by company-owner, and admin
